@@ -2,4 +2,4 @@
 
 PrimeX — Your gateway to a better CloudStream experience.
 
-**Shortcode:** `iamprimex`
+**Shortcode:** `primexrepo`

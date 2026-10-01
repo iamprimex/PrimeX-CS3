@@ -1,0 +1,9 @@
+{
+  "name": "PrimeX CS3",
+  "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/iamprimex.png",
+  "description": "PrimeX — Your gateway to a better CloudStream experience.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/master/Prime%20Plugins"
+  ]
+}

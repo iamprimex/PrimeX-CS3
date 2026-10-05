@@ -17,5 +17,24 @@
     "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/MovieBox.png",
     "apiVersion": 1,
     "fileHash": "sha256-0e7db88a4b668c6c22160025cb331aab3627fd42c166f723eedfa0de20b7a498"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/NetMirror.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "NetMirror",
+    "internalName": "NetMirror",
+    "authors": [
+      "PrimeX"
+    ],
+    "description": "Watch content from NetMirror",
+    "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/NetMirror.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-61dce8378f02424fb50a214f4b7b5fd62ab62c36736432627ff808b245043507"
   }
 ]

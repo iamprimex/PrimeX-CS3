@@ -4,6 +4,6 @@
   "description": "PrimeX — Your gateway to a better CloudStream experience.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/master/Prime%20Plugins"
+    "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/main/PrimeX%20CS3%20Plugins"
   ]
 }

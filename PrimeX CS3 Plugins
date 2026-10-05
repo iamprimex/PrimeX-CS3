@@ -1,1 +1,21 @@
-
+[
+  {
+    "url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/MovieBox.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "MovieBox",
+    "internalName": "MovieBox",
+    "authors": [
+      "PrimeX"
+    ],
+    "description": "Watch content from MovieBox",
+    "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/MovieBox.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-0e7db88a4b668c6c22160025cb331aab3627fd42c166f723eedfa0de20b7a498"
+  }
+]

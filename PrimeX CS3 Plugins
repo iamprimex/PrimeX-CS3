@@ -11,8 +11,8 @@
     "description": "Watch content from Kartoons",
     "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
     "tvTypes": [
-      "Movie",
-      "TvSeries"
+      "Cartoons",
+      "Anime"
     ],
     "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/Kartoons.png",
     "apiVersion": 1

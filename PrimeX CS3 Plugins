@@ -72,5 +72,25 @@
     "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/NetMirror.png",
     "apiVersion": 1,
     "fileHash": "sha256-61dce8378f02424fb50a214f4b7b5fd62ab62c36736432627ff808b245043507"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/Stremio.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Stremio",
+    "internalName": "Stremio",
+    "authors": [
+      "PrimeX"
+    ],
+    "description": "Access Stremio Addons in CloudStream with Your Manifest URL",
+    "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Torrent"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/Stremio.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-c72cbb30eb6efbcf98fd64dc51079fdcb52e4f29cc420d98b8411bc2c9254528"
   }
 ]

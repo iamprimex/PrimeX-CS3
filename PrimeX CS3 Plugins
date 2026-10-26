@@ -1,95 +1,95 @@
 [
-  {
-    "url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/IPTV.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "IPTV",
-    "internalName": "IPTV",
-    "authors": [
-      "PrimeX"
-    ],
-    "description": "Add your favorite IPTV playlist and enjoy seamless live streaming.",
-    "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/IPTV.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-097ead934efa159b6bca81c416fd4d4f109d972b3a826947253d2c6f32ccf953"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/Kartoons.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "Kartoons",
-    "internalName": "Kartoons",
-    "authors": [
-      "PrimeX"
-    ],
-    "description": "Watch content from Kartoons",
-    "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
-    "tvTypes": [
-      "Cartoons",
-      "Anime"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/Kartoons.png",
-    "apiVersion": 1
-  },
-  {
-    "url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/MovieBox.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "MovieBox",
-    "internalName": "MovieBox",
-    "authors": [
-      "PrimeX"
-    ],
-    "description": "Watch content from MovieBox",
-    "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/MovieBox.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-dcb537cef5f3dbec3e0792d690c4f4aabf4251cad1c79fdd3b1642e68fca3c5f"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/NetMirror.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "NetMirror",
-    "internalName": "NetMirror",
-    "authors": [
-      "PrimeX"
-    ],
-    "description": "Watch content from NetMirror",
-    "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/NetMirror.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-61dce8378f02424fb50a214f4b7b5fd62ab62c36736432627ff808b245043507"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/Stremio.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "Stremio",
-    "internalName": "Stremio",
-    "authors": [
-      "PrimeX"
-    ],
-    "description": "Access Stremio Addons in CloudStream with Your Manifest URL.",
-    "repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/Stremio.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-16db0443680843005563f4a32d85a7b35559015aaa6d28f032f2405251d99ee4"
-  }
+{
+"url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/IPTV.cs3",
+"status": 1,
+"version": 1,
+"name": "IPTV",
+"internalName": "IPTV",
+"authors": [
+"PrimeX"
+],
+"description": "Add your favorite IPTV playlist and enjoy seamless live streaming.",
+"repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
+"tvTypes": [
+"Live"
+],
+"iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/IPTV.png",
+"apiVersion": 1,
+"fileHash": "sha256-097ead934efa159b6bca81c416fd4d4f109d972b3a826947253d2c6f32ccf953"
+},
+{
+"url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/Kartoons.cs3",
+"status": 1,
+"version": 1,
+"name": "Kartoons",
+"internalName": "Kartoons",
+"authors": [
+"PrimeX"
+],
+"description": "Watch content from Kartoons",
+"repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
+"tvTypes": [
+"Cartoons",
+"Anime"
+],
+"iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/Kartoons.png",
+"apiVersion": 1
+},
+{
+"url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
+"status": 1,
+"version": 1,
+"name": "MovieBox",
+"internalName": "MovieBox",
+"authors": [
+"PrimeX"
+],
+"description": "Watch content from MovieBox",
+"repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
+"tvTypes": [
+"Movie",
+"TvSeries"
+],
+"iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/MovieBox.png",
+"apiVersion": 1,
+"fileHash": "sha256-dcb537cef5f3dbec3e0792d690c4f4aabf4251cad1c79fdd3b1642e68fca3c5f"
+},
+{
+"url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/NetMirror.cs3",
+"status": 1,
+"version": 1,
+"name": "NetMirror",
+"internalName": "NetMirror",
+"authors": [
+"PrimeX"
+],
+"description": "Watch content from NetMirror",
+"repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
+"tvTypes": [
+"Movie",
+"TvSeries"
+],
+"iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/NetMirror.png",
+"apiVersion": 1,
+"fileHash": "sha256-61dce8378f02424fb50a214f4b7b5fd62ab62c36736432627ff808b245043507"
+},
+{
+"url": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/Stremio.cs3",
+"status": 1,
+"version": 1,
+"name": "Stremio",
+"internalName": "Stremio",
+"authors": [
+"PrimeX"
+],
+"description": "Access Stremio Addons in CloudStream with Your Manifest URL.",
+"repositoryUrl": "https://github.com/iamprimex/PrimeX-CS3",
+"tvTypes": [
+"Movie",
+"TvSeries"
+],
+"iconUrl": "https://raw.githubusercontent.com/iamprimex/PrimeX-CS3/builds/PrimeX%20Logos/Stremio.png",
+"apiVersion": 1,
+"fileHash": "sha256-16db0443680843005563f4a32d85a7b35559015aaa6d28f032f2405251d99ee4"
+}
 ]
